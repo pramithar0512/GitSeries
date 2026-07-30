@@ -1,6 +1,10 @@
 Hi practice git fetch
 
+<<<<<<< Updated upstream
 welcome to devops & SRE & AWS
+=======
+welcome to devops & SRE, cloud technologies 
+>>>>>>> Stashed changes
 
 helloooooooo devops
 
